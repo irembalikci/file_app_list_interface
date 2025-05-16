@@ -3,6 +3,7 @@ import 'package:file_app_list_interface/ui/screens/main_screen.dart';
 import 'package:file_app_list_interface/ui/tools/app_colors.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
+
 void main() {
   runApp(const MyApp());
 }
