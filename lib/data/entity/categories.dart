@@ -4,5 +4,8 @@ class Categories {
   String image;
 
 
-  Categories ({required this.id,required this.titleName,required this.image});
+  Categories ({
+    required this.id,
+    required this.titleName,
+    required this.image});
 }
